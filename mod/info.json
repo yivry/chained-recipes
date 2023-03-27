@@ -6,7 +6,6 @@
     "factorio_version": "1.1",
     "dependencies": ["base >= 1.1"],
     "description": "Changes vanilla recipes to be chained a little more. Compatible with Train Construction Site, probably not with overhaul mods.",
-    "contact": "https://twitch.tv/yivry",
-    "homepage": "https://github.com/yivry/chained-recipes"
+    "homepage": "https://www.yivry.com"
   }
   
