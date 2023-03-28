@@ -1,6 +1,6 @@
 # Chained Recipes
 
-A Factorio mod that changes vanilla recipes to be chained a little more:  
+<img align="right" src="mod/thumbnail.png" title="Chained Recipes" alt="Thumbnail"/>A Factorio mod that changes vanilla recipes to be chained a little more:  
 every armor requires the previous one, same for furnaces, power poles, etc.
 
 Factorio Mod Portal: https://mods.factorio.com/mod/chained-recipes
