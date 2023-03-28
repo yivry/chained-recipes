@@ -1,12 +1,20 @@
 # Chained Recipes
 
-A Factorio mod that changes vanilla recipes to be chained a little more.
+A Factorio mod that changes vanilla recipes to be chained a little more:  
+every armor requires the previous one, same for furnaces, power poles, etc.
 
 Factorio Mod Portal: https://mods.factorio.com/mod/chained-recipes
 
 ## Description
 
-Changes vanilla recipes to be chained a little more. Creates or augments 14 chains.
+Creates or augments 14 chains. Examples:
+
+* Armors
+* Combinators
+* Furnaces
+* Inserters
+* Power Poles
+* Shells & Rockets
 
 Introduces only 2 new intermediates and 1 new recipe. Other changes are directly in the existing recipes.
 

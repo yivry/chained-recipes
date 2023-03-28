@@ -1,11 +1,11 @@
 {
     "name": "chained-recipes",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "title": "Chained Recipes",
     "author": "Yivry",
     "factorio_version": "1.1",
     "dependencies": ["base >= 1.1"],
-    "description": "Changes vanilla recipes to be chained a little more. Compatible with Train Construction Site, probably not with overhaul mods.",
+    "description": "Changes vanilla recipes to be chained a little more: every armor requires the previous one, same for furnaces, etc.",
     "homepage": "https://www.yivry.com"
   }
   
