@@ -8,6 +8,7 @@ addchain("logistics/rail-signal")
 addchain("logistics/train")
 addchain("logistics/vehicle")
 
+addchain("production/chemical")
 addchain("production/energy")
 addchain("production/extraction")
 addchain("production/furnace")

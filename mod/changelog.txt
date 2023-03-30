@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 30-03-2023
+  Major Features:
+    - Added the Chemical chain: Assembling machine 2 -> Chemical plant -> Oil refinery.
+
+  Breaking Changes:
+    - Assembling machine 2 requires pipes.
+
+  Patches:
+    - Updated Artillery Cannon description.
+---------------------------------------------------------------------------------------------------
 Version: 0.1.1
 Date: 28-03-2023
   Patches:
