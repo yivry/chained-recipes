@@ -7,7 +7,7 @@ Factorio Mod Portal: https://mods.factorio.com/mod/chained-recipes
 
 ## Description
 
-Creates or augments 18 chains. Examples:
+Creates or augments 19 chains. Examples:
 
 * Armors
 * Combinators

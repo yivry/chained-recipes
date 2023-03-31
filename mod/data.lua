@@ -1,6 +1,7 @@
 require("data-util")
 require("prefix")
 
+addchain("logistics/chest")
 addchain("logistics/combinator")
 addchain("logistics/inserter")
 addchain("logistics/pole")

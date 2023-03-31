@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 31-03-2023
+  Major Features:
+    - Added the Logistic Chest chain.
+
+  Breaking Changes:
+    - Active provider, Buffer, and Requester chests require an earlier logistic chest instead of a Steel chest.
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 30-03-2023
   Major Features:
